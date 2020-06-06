@@ -221,6 +221,12 @@ TODO: Setup strong password policy, password expiry, dictionary for old password
 
 ## MySQL setup
 
+### Install MySQL server
+
+```{sh}
+sudo apt install mysql-server
+```
+
 ### Change MySQL Data Directory
 
 Stop MySQL using the following command:
